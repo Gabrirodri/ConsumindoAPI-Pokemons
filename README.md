@@ -5,5 +5,6 @@
 - [x] Filtrar nome, imagem, tipo de pokemon para exibir na tela
 - [x] criar uma template HTML
 - [x] Injetar no HTML os dados dos Pokemons
+- [x] Organizar, Desacoplar e Refatorar o Codigo
 
 ![ ](https://github.com/Gabrirodri/ConsumindoAPI-Pokemons/blob/master/ProjetoApiImagem.png)
